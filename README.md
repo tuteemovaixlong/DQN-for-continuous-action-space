@@ -1,2 +1,2 @@
 # DQN-for-continuous-action-space
-use advantage dqn
+lunarlander use advantage dqn
